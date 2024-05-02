@@ -1,8 +1,13 @@
-# React + Vite
+## Data Base Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Project based on the (server) data provided by : 
+- https://jsonplaceholder.typicode.com/users
+- https://jsonplaceholder.typicode.com/posts
+- https://jsonplaceholder.typicode.com/todos
 
-Currently, two official plugins are available:
+Management a “Data Base” on the client side, based and initialized by the server data from those links.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+***
+
+![](README/1.jpg)![](README/2.jpg)![](README/3.jpg)![](README/4.jpg)![](README/5.jpg)![](README/6.jpg)![](README/7.jpg)
