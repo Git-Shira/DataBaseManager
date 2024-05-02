@@ -1,0 +1,45 @@
+.usersList {
+    width: 400px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    padding: 15px;
+    padding-right: 5px;
+}
+
+.other-data-title {
+    cursor: pointer;
+    border: 1px solid black;
+    width: 75px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 1px;
+}
+
+.other-data {
+    border-radius: 15px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 250px;
+    background-color: rgb(239, 233, 233);
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.usersList .User-buttons {
+    margin-top: 20px;
+    margin-left: 225px;
+}
+
+.usersList .User-buttons button {
+    margin-right: 10px;
+}
+
+
+.half-screen {
+    height: 60vh;
+    width: 420px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-left: 80px;
+    margin-top: 25px;
+}

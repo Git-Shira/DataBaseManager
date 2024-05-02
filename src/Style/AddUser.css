@@ -1,0 +1,19 @@
+.addUser{
+    border:2px solid black;
+    border-radius: 15px;
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+
+.addUser-buttons {
+    float: right;
+    margin-top: 20px;
+  }
+  
+  .addUser-buttons button {
+    margin-right: 5px;
+  }
+  

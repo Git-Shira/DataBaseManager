@@ -1,0 +1,31 @@
+.add-post-button {
+    float: right;
+    margin-left: 190px;
+}
+
+.posts-list {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.add-post{
+    border:2px solid black;
+    border-radius: 15px;
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.addPost-buttons {
+    float: right;
+    margin-top: 20px;
+  }
+  
+  .addPost-buttons button {
+    margin-right: 5px;
+  }
