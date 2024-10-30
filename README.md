@@ -1,6 +1,6 @@
 # Data Base Manager
 
-# 🗂️ Table of Contents
+# Table of Contents
 
 - [Overview](#overview)
 - [Libraries and Tools](#libraries-and-tools)
